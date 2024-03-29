@@ -63,8 +63,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### ✍️ Blog Posts:
-
 <!--
 **isamabdullah88/isamabdullah88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
