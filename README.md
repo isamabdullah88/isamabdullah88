@@ -27,7 +27,7 @@ I am a Computer Vision Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Currently pursuing an MS degree in Physics.
 
-- :zap: In my free time, I love listening to audiobooks, and going on long calm road drives.
+- :zap: In my free time, I love listening to audiobooks, contemplating on investing, and going on long calm road drives.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isambalghari)
 
