@@ -23,9 +23,9 @@
 ### 👨‍💻 About Me:
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a physicist.
 
-- :telescope: I’m working on my thesis exploring superconductors with the help of computational tools.
+- :telescope: My thesis delves into the fascinating world of superconductors. Using computational tools as my guide, I explore how matter sheds its resistance and reveals quantum order—quietly unraveling the secrets hidden beneath absolute zero.
 
-- :seedling: Currently pursuing an MS degree in Physics. Also developing a software that tracks and collects data from physics experiments. It significantly reduces the data collection/annotation time upto 10 times with next to zero expenses.
+- :seedling: Currently pursuing an MS in Physics while developing a software tool that enhances elementary experimental research. Designed for high school and early undergraduate students, it automates data collection and annotation—cutting the time by up to 100× with virtually no cost. By simplifying lab work, it turns routine experiments into engaging, insightful experiences, aiming to spark curiosity and inspiration in the next generation of physicists.
 
 - :zap: In my free time, I love listening to audiobooks, contemplating on investing, and going on long calm road drives.
 
