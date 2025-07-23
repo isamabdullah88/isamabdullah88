@@ -21,11 +21,11 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a Computer Vision Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a physicist.
 
-- :telescope: I’m working as a Computer Vision Research Engineer at www.roll.ai, helping build exceptional AI tools for video.
+- :telescope: I’m working on my thesis exploring superconductors with the help of computational tools.
 
-- :seedling: Currently pursuing an MS degree in Physics.
+- :seedling: Currently pursuing an MS degree in Physics. Also developing a software that tracks and collects data from physics experiments. It significantly reduces the data collection/annotation time upto 10 times with next to zero expenses.
 
 - :zap: In my free time, I love listening to audiobooks, contemplating on investing, and going on long calm road drives.
 
