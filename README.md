@@ -21,11 +21,11 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a physicist.
+My research focuses on accelerating the discovery and understanding of magnetic materials through geometric deep learning. With a Master's in Physics, a Bachelor's in Computer Science, and over six years of professional software engineering experience, I bring strong computational rigor and production-level coding standards to complex many-body physics problems.
 
-- :telescope: My thesis delves into the fascinating world of superconductors. Using computational tools as my guide, I explore how matter sheds its resistance and reveals quantum order—quietly unraveling the secrets hidden beneath absolute zero.
+Currently, my work centers on developing a custom Equivariant Graph Neural Network (DSpinGNN) to simulate spin-lattice dynamics and magnetization coupling in 2D materials like CrI3. By leveraging PyTorch, the e3nn library, and first-principles data generated via Density Functional Theory (Quantum Espresso), I build state-of-the-art models from scratch to predict critical thermal properties and uncover renormalized Tc temperatures.
 
-- :seedling: Currently pursuing an MS in Physics while developing a software tool that enhances elementary experimental research. Designed for high school and early undergraduate students, it automates data collection and annotation—cutting the time by up to 100× with virtually no cost. By simplifying lab work, it turns routine experiments into engaging, insightful experiences, aiming to spark curiosity and inspiration in the next generation of physicists.
+Beyond machine learning, I am deeply invested in building robust scientific tooling. I independently developed Phystrackx, a proprietary video-tracking software designed to streamline data acquisition in experimental physics labs. I am driven by the challenge of translating physical symmetries into efficient code and pushing the boundaries of what data-driven methods can achieve in statistical mechanics.
 
 - :zap: In my free time, I love listening to audiobooks, contemplating on investing, and going on long calm road drives.
 
@@ -36,10 +36,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### 🛠️ Languages & Tools:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
