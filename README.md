@@ -29,7 +29,7 @@ Beyond machine learning, I am deeply invested in building robust scientific tool
 
 - :zap: In my free time, I love listening to audiobooks, contemplating on investing, and going on long calm road drives.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isambalghari)
+- :mailbox:How to reach me: [![Linkedin Badge]<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/isambalghari)
 
 ---
 
