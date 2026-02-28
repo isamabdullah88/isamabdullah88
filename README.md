@@ -1,5 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+  Hi there, I am Isam
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <div id="badges">
   <a href="https://www.linkedin.com/in/isambalghari">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,10 +13,6 @@
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=isamabdullah88&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
@@ -29,8 +29,6 @@ Beyond machine learning, I am deeply invested in building robust scientific tool
 
 - :zap: In my free time, I love listening to audiobooks, contemplating on investing, and going on long calm road drives.
 
-- :mailbox:How to reach me: [![Linkedin Badge]<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/isambalghari)
-
 ---
 
 ### 🛠️ Languages & Tools:
@@ -44,8 +42,6 @@ Beyond machine learning, I am deeply invested in building robust scientific tool
 ### 🔥 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isamabdullah88&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isamabdullah88)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
