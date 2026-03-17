@@ -3,7 +3,6 @@
   Hi there, I am Isam
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <div id="badges">
   <a href="https://www.linkedin.com/in/isambalghari">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,6 +20,7 @@
 ---
 
 ### 👨‍💻 About Me:
+
 My research focuses on accelerating the discovery and understanding of magnetic materials through geometric deep learning. With a Master's in Physics, a Bachelor's in Computer Science, and over six years of professional software engineering experience, I bring strong computational rigor and production-level coding standards to complex many-body physics problems.
 
 Currently, my work centers on developing a custom Equivariant Graph Neural Network (DSpinGNN) to simulate spin-lattice dynamics and magnetization coupling in 2D materials like CrI3. By leveraging PyTorch, the e3nn library, and first-principles data generated via Density Functional Theory (Quantum Espresso), I build state-of-the-art models from scratch to predict critical thermal properties and uncover renormalized Tc temperatures.
@@ -33,9 +33,20 @@ Beyond machine learning, I am deeply invested in building robust scientific tool
 
 ### 🛠️ Languages & Tools:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+**Machine Learning & AI4Science** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![e3nn](https://img.shields.io/badge/e3nn-Neural_Networks-blue?style=for-the-badge)
+![NequIP](https://img.shields.io/badge/NequIP-Interatomic_Potentials-brightgreen?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Physics & High-Performance Computing** ![Quantum ESPRESSO](https://img.shields.io/badge/Quantum_ESPRESSO-DFT-red?style=for-the-badge)
+![SLURM](https://img.shields.io/badge/SLURM-HPC_Scheduling-00bfff?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Software Engineering & Development** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
@@ -44,18 +55,3 @@ Beyond machine learning, I am deeply invested in building robust scientific tool
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isamabdullah88&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
-
-<!--
-**isamabdullah88/isamabdullah88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
